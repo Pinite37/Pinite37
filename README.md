@@ -1,8 +1,6 @@
-# Hi, I'm Pinite37! 👋
+# Hi, I'm Théophas AFOMASSE alias Pinite37 ! 👋
 
-I am passionate a
 
-## Initialisation
 ```python
 class Pinite37():
 
@@ -48,27 +46,26 @@ if __name__ == '__main__':
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Institut of Formation and Research in .
+- 🔭 I'm currently pursuing my Bachelor's degree in Computer Science at the Institute of Training and Research in Computer Science (IFRI-UAC/Benin).
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,postman,vscode)](https://skillicons.dev)
 
 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+- 🚀 Learning Backend Web Development
+  - Exploring the ins and outs of Node and Express for dynamic front-end experiences.
+  - Building server-side applications with Flask, a powerful Python web micro framework.
+  - Leveraging FastAPI for high-performance Python web applications.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed FreeCodeCamp Certification to Legacy JavaScripts Algorithms and Data Structures.
 
 
 ## 📬 Get in Touch
