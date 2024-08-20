@@ -11,9 +11,6 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,reactnative)](https://skillicons.dev)
