@@ -21,15 +21,21 @@ if __name__ == '__main__':
 ```
 
 
-![<Pinite37>'s Stats](https://github-readme-stats.vercel.app//api?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+<div align="center">
 
-![Pinite37's Stats](https://github-readme-streak-stats.herokuapp.com?user=Pinite37&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B)
+  ![<Pinite37>'s Stats](https://github-readme-stats.vercel.app//api?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+
+  ![Pinite37's Stats](https://github-readme-streak-stats.herokuapp.com?user=Pinite37&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B)
 
 
-![Pinite37's Stats](https://github-readme-stats.vercel.app/api/pin/?username=Pinite37&repo=food_del&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2)
+  ![Pinite37's Stats](https://github-readme-stats.vercel.app/api/pin/?username=Pinite37&repo=food_del&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2)
 
 
-![Pinite37's Stats](https://github-readme-stats.vercel.app//api/top-langs?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+  ![Pinite37's Stats](https://github-readme-stats.vercel.app//api/top-langs?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+
+</div>
+
+
 
 
 
