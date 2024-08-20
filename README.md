@@ -1,6 +1,6 @@
 # Hi, I'm Pinite37! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am passionate a
 
 ## Initialisation
 ```python
@@ -21,18 +21,26 @@ if __name__ == '__main__':
 ```
 
 
-![<Pinite37>'s Stats](https://github-readme-stats.vercel.app/api?username=Pinite37&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Pinite37>'s Stats](https://github-readme-stats.vercel.app//api?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+
+![Pinite37's Stats](https://github-readme-streak-stats.herokuapp.com?user=Pinite37&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B)
+
+
+![Pinite37's Stats](https://github-readme-stats.vercel.app/api/pin/?username=Pinite37&repo=food_del&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2)
+
+
+![Pinite37's Stats](https://github-readme-stats.vercel.app//api/top-langs?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
+
+
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Institut of Formation and Research in .
+
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,reactnative)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react)](https://skillicons.dev)
 
 
 
@@ -52,23 +60,10 @@ if __name__ == '__main__':
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://x.com/afomassepinite)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
