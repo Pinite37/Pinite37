@@ -1,4 +1,12 @@
-# Hi, I'm Théophas AFOMASSE alias Pinite37 ! 👋
+<div align="center">
+
+  <img src="undraw_programming_re_kg9v.svg" width=400 />
+
+  <h2>Hi, I'm Théophas AFOMASSE alias Pinite37 ! 👋<h2>
+
+</div>
+
+
 
 
 ```python
