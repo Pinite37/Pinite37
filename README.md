@@ -20,6 +20,7 @@ if __name__ == '__main__':
     me = Pinite37()
 ```
 
+## Statistiques
 
 <div align="center">
 
