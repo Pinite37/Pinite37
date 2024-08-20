@@ -2,6 +2,25 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+## Initialisation
+```python
+class Pinite37():
+
+  def __init__(self):
+    self.name = "Théophas AFOMASSE";
+    self.username = "Pinite37";
+    self.location = "Abomey-Calavi, Bénin";
+    self.twitter = "@afomassepinite";
+    self.web = "https://theophasafomasse.vercel.app/";
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Pinite37()
+```
+
+
 ![<Pinite37>'s Stats](https://github-readme-stats.vercel.app/api?username=Pinite37&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
@@ -14,6 +33,8 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,reactnative)](https://skillicons.dev)
+
+
 
 ## 🌱 Currently Exploring
 
