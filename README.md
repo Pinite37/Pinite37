@@ -20,9 +20,10 @@ if __name__ == '__main__':
     me = Pinite37()
 ```
 
-## Statistiques
 
 <div align="center">
+
+## Statistiques
 
   ![<Pinite37>'s Stats](https://github-readme-stats.vercel.app//api?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false)
 
