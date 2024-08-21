@@ -25,7 +25,7 @@ class Pinite37():
     self.username = "Pinite37";
     self.location = "Abomey-Calavi, Bénin";
     self.twitter = "@afomassepinite";
-    self.linkedin="";
+    self.linkedin="Théophas AFOMASSE";
     self.web = "https://theophasafomasse.vercel.app/";
 
   def __str__(self):
