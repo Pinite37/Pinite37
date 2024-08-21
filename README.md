@@ -4,6 +4,10 @@
 
   <h3 align="center">Hey there, I'm <a href="#">Théophas</a> - alias Pinite37 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
+  <p align="center">
+  <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;also+Backend-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
   <!-- <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+sofware+engineering;++;Self-taught+Backend-End+Developer;AI Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
   </p> -->
@@ -51,6 +55,12 @@ if __name__ == '__main__':
 
 
   <img src="https://github-readme-stats.vercel.app//api/top-langs?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" width="500" />
+
+
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Pinite37&theme=radical" alt="Pinite37"/>
+
 
 
 
