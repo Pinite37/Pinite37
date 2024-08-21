@@ -5,7 +5,7 @@
   <h3 align="center">Hey there, I'm <a href="#">Théophas</a> - alias Pinite37 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
   <p align="center">
-  <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;also+Backend-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend-End+Developer,;AI+Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
 </p>
 
   <!-- <p align="center">
