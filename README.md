@@ -2,7 +2,11 @@
 
   <img src="undraw_programming_re_kg9v.svg" width=400 />
 
-  <h2>Hi, I'm Théophas AFOMASSE alias Pinite37 ! 👋<h2>
+  <h3 align="center">Hey there, I'm <a href="#">Théophas</a> - alias Pinite37 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+  <p align="center">
+  <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+about+sofware+engineering;++;Self-taught+Backend-End+Developer;AI Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+  </p>
 
 </div>
 
@@ -17,6 +21,7 @@ class Pinite37():
     self.username = "Pinite37";
     self.location = "Abomey-Calavi, Bénin";
     self.twitter = "@afomassepinite";
+    self.linkedin="";
     self.web = "https://theophasafomasse.vercel.app/";
 
   def __str__(self):
@@ -29,7 +34,13 @@ if __name__ == '__main__':
 
 <div align="center">
 
-## Statistiques
+
+  <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack</h2>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,java,cpp,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,postman,vscode)](https://skillicons.dev)
+
+
+  <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Statistics</h2>
 
 
   <img src="https://github-readme-stats.vercel.app//api?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" width="500" />
@@ -52,18 +63,17 @@ if __name__ == '__main__':
 
 
 
-## 🚀 About Me
+
+
+<h2 align="center">🚀 About Me</h2>
 
 - 🔭 I'm currently pursuing my Bachelor's degree in Computer Science at the Institute of Training and Research in Computer Science (IFRI-UAC/Benin).
 
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,mongodb,expressjs,vuejs,flask,fastapi,django,typescript,sequelize,postgresql,docker,nextjs,nestjs,react,postman,vscode)](https://skillicons.dev)
 
 
-
-## 🌱 Currently Exploring
+<h2 align="center">🌱 Currently Exploring</h2>
 
 - 🚀 Learning Backend Web Development
   - Exploring the ins and outs of Node and Express for dynamic front-end experiences.
@@ -71,12 +81,14 @@ if __name__ == '__main__':
   - Leveraging FastAPI for high-performance Python web applications.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+
+ <h2 align="center">🏆 Achievements</h2>
 
 - 🌟 Completed FreeCodeCamp Certification to Legacy JavaScripts Algorithms and Data Structures.
 
 
-## 📬 Get in Touch
+
+ <h2 align="center">📬 Get in Touch</h2>
 
 - Connect with me on [Twitter](https://x.com/afomassepinite)
 
