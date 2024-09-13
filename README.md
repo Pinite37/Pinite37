@@ -3,6 +3,7 @@
   <img src="undraw_programming_re_kg9v.svg" width=400 />
 
   <h3 align="center">Hey there, I'm <a href="#">Théophas</a> - alias Pinite37 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
   
 
   <p align="center">
@@ -14,6 +15,14 @@
   </p> -->
 
 </div>
+
+
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/benin/Pinite37.svg)](https://user-badge.committers.top/benin/Pinite37)
+
+</div>
+
 
 
 
@@ -80,6 +89,10 @@ if __name__ == '__main__':
 
 - 🔭 I'm currently pursuing my Bachelor's degree in Computer Science at the Institute of Training and Research in Computer Science (IFRI-UAC/Benin).
 
+
+
+
+  
 
 
 
