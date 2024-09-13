@@ -3,6 +3,7 @@
   <img src="undraw_programming_re_kg9v.svg" width=400 />
 
   <h3 align="center">Hey there, I'm <a href="#">Théophas</a> - alias Pinite37 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+  
 
   <p align="center">
   <a href="https://github.com/BlakvGhost/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer,;AI+Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
@@ -101,7 +102,7 @@ if __name__ == '__main__':
  <h2 align="center">📬 Get in Touch</h2>
 
 - Connect with me on [Twitter](https://x.com/afomassepinite)
-[![committers.top badge](https://user-badge.committers.top/benin/Pinite37.svg)](https://user-badge.committers.top/benin/Pinite37)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
