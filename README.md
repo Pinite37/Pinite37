@@ -101,7 +101,6 @@ if __name__ == '__main__':
  <h2 align="center">📬 Get in Touch</h2>
 
 - Connect with me on [Twitter](https://x.com/afomassepinite)
-[![committers.top badge](https://user-badge.committers.top/benin/USERNAME.svg)](https://user-badge.committers.top/benin/Pinite37)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
