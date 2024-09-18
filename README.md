@@ -21,6 +21,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/benin/Pinite37.svg)](https://user-badge.committers.top/benin/Pinite37)
 
+[![wakatime](https://wakatime.com/badge/user/018cca4e-e73e-4d6a-9a85-331db46296d5.svg)](https://wakatime.com/@018cca4e-e73e-4d6a-9a85-331db46296d5)
+
 </div>
 
 
