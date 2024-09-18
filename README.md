@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Pinite37&theme=radical" alt="Pinite37"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pinite37&theme=radical" alt="Pinite37"/>
 
 
 
