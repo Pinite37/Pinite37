@@ -61,7 +61,6 @@ if __name__ == '__main__':
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pinite37&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B" width="500" />
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pinite37&repo=food_del&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2" width="500" />
 
 
   <img src="https://github-readme-stats.vercel.app//api/top-langs?username=Pinite37&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" width="500" />
