@@ -30,22 +30,25 @@
 
 
 
-```python
-class Pinite37():
+```javascript
+class Pinite37 {
+  constructor() {
+    this.name = "Théophas AFOMASSE";
+    this.username = "Pinite37";
+    this.location = "Abomey-Calavi, Bénin";
+    this.twitter = "@afomassepinite";
+    this.linkedin = "Théophas AFOMASSE";
+    this.web = "https://theophasafomasse.vercel.app/";
+  }
 
-  def __init__(self):
-    self.name = "Théophas AFOMASSE";
-    self.username = "Pinite37";
-    self.location = "Abomey-Calavi, Bénin";
-    self.twitter = "@afomassepinite";
-    self.linkedin="Théophas AFOMASSE";
-    self.web = "https://theophasafomasse.vercel.app/";
+  toString() {
+    return this.name;
+  }
+}
 
-  def __str__(self):
-    return self.name
+const me = new Pinite37();
+console.log(me.toString());
 
-if __name__ == '__main__':
-    me = Pinite37()
 ```
 
 
