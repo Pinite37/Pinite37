@@ -38,7 +38,7 @@ class Pinite37 {
     this.location = "Abomey-Calavi, Bénin";
     this.twitter = "@afomassepinite";
     this.linkedin = "Théophas AFOMASSE";
-    this.web = "https://theophasafomasse.vercel.app/";
+    this.web = "https://theophasafomasse.pinite37.me";
   }
 
   toString() {
